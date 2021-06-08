@@ -36,12 +36,13 @@ namespace QLQuanCafe
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.lbtb = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtTaiKhoan
             // 
             this.txtTaiKhoan.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTaiKhoan.Location = new System.Drawing.Point(137, 54);
+            this.txtTaiKhoan.Location = new System.Drawing.Point(136, 54);
             this.txtTaiKhoan.Name = "txtTaiKhoan";
             this.txtTaiKhoan.Size = new System.Drawing.Size(195, 31);
             this.txtTaiKhoan.TabIndex = 0;
@@ -49,7 +50,7 @@ namespace QLQuanCafe
             // txtMatKhau
             // 
             this.txtMatKhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMatKhau.Location = new System.Drawing.Point(137, 109);
+            this.txtMatKhau.Location = new System.Drawing.Point(136, 109);
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.Size = new System.Drawing.Size(195, 31);
             this.txtMatKhau.TabIndex = 1;
@@ -63,6 +64,7 @@ namespace QLQuanCafe
             this.btnDangNhap.TabIndex = 2;
             this.btnDangNhap.Text = "Đăng nhập";
             this.btnDangNhap.UseVisualStyleBackColor = true;
+            this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
             // 
             // btnKetNoi
             // 
@@ -73,6 +75,7 @@ namespace QLQuanCafe
             this.btnKetNoi.TabIndex = 3;
             this.btnKetNoi.Text = "Kết nối";
             this.btnKetNoi.UseVisualStyleBackColor = true;
+            this.btnKetNoi.Click += new System.EventHandler(this.btnKetNoi_Click);
             // 
             // label1
             // 
@@ -88,7 +91,7 @@ namespace QLQuanCafe
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(38, 58);
+            this.label2.Location = new System.Drawing.Point(37, 58);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(93, 24);
             this.label2.TabIndex = 5;
@@ -98,17 +101,26 @@ namespace QLQuanCafe
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(38, 113);
+            this.label3.Location = new System.Drawing.Point(37, 113);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(86, 24);
             this.label3.TabIndex = 6;
             this.label3.Text = "Mật khẩu";
+            // 
+            // lbtb
+            // 
+            this.lbtb.AutoSize = true;
+            this.lbtb.Location = new System.Drawing.Point(116, 148);
+            this.lbtb.Name = "lbtb";
+            this.lbtb.Size = new System.Drawing.Size(0, 13);
+            this.lbtb.TabIndex = 7;
             // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(369, 220);
+            this.Controls.Add(this.lbtb);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -120,6 +132,7 @@ namespace QLQuanCafe
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -134,5 +147,6 @@ namespace QLQuanCafe
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lbtb;
     }
 }
