@@ -36,6 +36,7 @@ namespace QLQuanCafe
             this.txtDatabase = new System.Windows.Forms.TextBox();
             this.txtServer = new System.Windows.Forms.TextBox();
             this.btnTroLai = new System.Windows.Forms.Button();
+            this.lbtb = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label3
@@ -106,11 +107,21 @@ namespace QLQuanCafe
             this.btnTroLai.UseVisualStyleBackColor = true;
             this.btnTroLai.Click += new System.EventHandler(this.btnTroLai_Click);
             // 
+            // lbtb
+            // 
+            this.lbtb.AutoSize = true;
+            this.lbtb.ForeColor = System.Drawing.Color.Red;
+            this.lbtb.Location = new System.Drawing.Point(109, 153);
+            this.lbtb.Name = "lbtb";
+            this.lbtb.Size = new System.Drawing.Size(0, 13);
+            this.lbtb.TabIndex = 15;
+            // 
             // frmKetNoi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(369, 220);
+            this.Controls.Add(this.lbtb);
             this.Controls.Add(this.btnTroLai);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -136,5 +147,6 @@ namespace QLQuanCafe
         private System.Windows.Forms.TextBox txtDatabase;
         private System.Windows.Forms.TextBox txtServer;
         private System.Windows.Forms.Button btnTroLai;
+        private System.Windows.Forms.Label lbtb;
     }
 }

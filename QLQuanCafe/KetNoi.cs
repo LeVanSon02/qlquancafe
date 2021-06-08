@@ -13,6 +13,7 @@ namespace QLQuanCafe
 {
     public partial class frmKetNoi : Form
     {
+        int kq = 0;
         public frmKetNoi()
         {
             InitializeComponent();
@@ -41,16 +42,20 @@ namespace QLQuanCafe
                 string[] dl = new string[] { a, b };
                 using (StreamWriter sw = new StreamWriter(@"ketnoi.ini"))
                 {
-
                     foreach (string s in dl)
                     {
                         sw.WriteLine(s);
+                        kq = 1;
                     }
                 }
             }
             catch (Exception)
             {
-
+                lbtb.Text = "Lưu thất bại";
+            }
+            if(kq == 1)
+            {
+                lbtb.Text = "Lưu thành công!";
             }
         }
 
