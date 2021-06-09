@@ -71,6 +71,42 @@
     <Compile Include="User_Controls\CT_HoaDon.Designer.cs">
       <DependentUpon>CT_HoaDon.cs</DependentUpon>
     </Compile>
+    <Compile Include="User_Controls\UC_KiemTraDatMon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_KiemTraDatMon.Designer.cs">
+      <DependentUpon>UC_KiemTraDatMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\UC_MenuChoKhach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_MenuChoKhach.Designer.cs">
+      <DependentUpon>UC_MenuChoKhach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\UC_TheMonAnXacNhan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_TheMonAnXacNhan.Designer.cs">
+      <DependentUpon>UC_TheMonAnXacNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\UC_ThemSuaMon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_ThemSuaMon.Designer.cs">
+      <DependentUpon>UC_ThemSuaMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\UC_TheMonAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_TheMonAn.Designer.cs">
+      <DependentUpon>UC_TheMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\UC_TheMonAnNho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_TheMonAnNho.Designer.cs">
+      <DependentUpon>UC_TheMonAnNho.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="KetNoi.resx">
       <DependentUpon>KetNoi.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +127,24 @@
     </Compile>
     <EmbeddedResource Include="User_Controls\CT_HoaDon.resx">
       <DependentUpon>CT_HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_KiemTraDatMon.resx">
+      <DependentUpon>UC_KiemTraDatMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_MenuChoKhach.resx">
+      <DependentUpon>UC_MenuChoKhach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_TheMonAnXacNhan.resx">
+      <DependentUpon>UC_TheMonAnXacNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_ThemSuaMon.resx">
+      <DependentUpon>UC_ThemSuaMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_TheMonAn.resx">
+      <DependentUpon>UC_TheMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_TheMonAnNho.resx">
+      <DependentUpon>UC_TheMonAnNho.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

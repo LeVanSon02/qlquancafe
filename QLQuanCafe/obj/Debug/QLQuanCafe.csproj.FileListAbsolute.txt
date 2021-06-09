@@ -10,3 +10,20 @@ D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.pdb
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.frmKetNoi.resources
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.Main.resources
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.CT_HoaDon.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\bin\Debug\QLQuanCafe.exe
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\bin\Debug\QLQuanCafe.pdb
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.frmKetNoi.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.Login.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.Main.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.Properties.Resources.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.CT_HoaDon.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_MenuChoKhach.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_ThemSuaMon.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAn.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAnNho.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.GenerateResource.cache
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.CoreCompileInputs.cache
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.exe
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.pdb
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_KiemTraDatMon.resources
+E:\Uni\PTTK HTTT\quancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAnXacNhan.resources
