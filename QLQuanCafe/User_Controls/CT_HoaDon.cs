@@ -7,13 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace QLQuanCafe.UserControlls
+namespace QLQuanCafe.User_Controls
 {
-    public partial class CT_Main : UserControl
+    public partial class CT_HoaDon : UserControl
     {
-        public CT_Main()
+        public CT_HoaDon()
         {
             InitializeComponent();
         }
+
+        private void CT_HoaDon_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

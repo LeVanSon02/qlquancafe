@@ -65,11 +65,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserControlls\CT_Main.cs">
+    <Compile Include="User_Controls\CT_HoaDon.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControlls\CT_Main.Designer.cs">
-      <DependentUpon>CT_Main.cs</DependentUpon>
+    <Compile Include="User_Controls\CT_HoaDon.Designer.cs">
+      <DependentUpon>CT_HoaDon.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="KetNoi.resx">
       <DependentUpon>KetNoi.cs</DependentUpon>
@@ -89,8 +89,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="UserControlls\CT_Main.resx">
-      <DependentUpon>CT_Main.cs</DependentUpon>
+    <EmbeddedResource Include="User_Controls\CT_HoaDon.resx">
+      <DependentUpon>CT_HoaDon.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

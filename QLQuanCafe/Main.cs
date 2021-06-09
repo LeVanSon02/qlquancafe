@@ -15,5 +15,17 @@ namespace QLQuanCafe
         {
             InitializeComponent();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            User_Controls.CT_HoaDon hd = new User_Controls.CT_HoaDon();
+            pnLoad.Controls.Clear();
+            pnLoad.Controls.Add(hd);
+        }
+
+        private void Main_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

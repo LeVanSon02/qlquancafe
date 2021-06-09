@@ -9,4 +9,4 @@ D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.exe
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.pdb
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.frmKetNoi.resources
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.Main.resources
-D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.UserControlls.CT_Main.resources
+D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.CT_HoaDon.resources
