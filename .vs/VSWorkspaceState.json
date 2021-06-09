@@ -2,13 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\QLQuanCafe",
-    "\\QLQuanCafe\\bin",
     "\\QLQuanCafe\\bin\\Debug",
     "\\QLQuanCafe\\bin\\Release",
-    "\\QLQuanCafe\\obj\\Debug",
-    "\\QLQuanCafe\\Properties",
     "\\QLQuanCafe\\User_Controls"
   ],
-  "SelectedNode": "\\QLQuanCafe\\User_Controls\\UC_MenuChoKhach.cs",
+  "SelectedNode": "\\QLQuanCafe\\User_Controls\\UC_TheMonAn.cs",
   "PreviewInSolutionExplorer": false
 }
