@@ -33,3 +33,22 @@ D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAnXacNhan.resou
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_ThemSuaMon.resources
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAn.resources
 D:\Github\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAnNho.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.AssemblyReference.cache
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.exe
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.pdb
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\bin\Debug\QLQuanCafe.exe
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\bin\Debug\QLQuanCafe.pdb
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.frmKetNoi.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.Login.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.Main.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.MainTest.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.Properties.Resources.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_KiemTraDatMon.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_MenuChoKhach.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_QuanLyBan.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAnXacNhan.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_ThemSuaMon.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAn.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_TheMonAnNho.resources
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.GenerateResource.cache
+D:\Bài tập các môn\Phân tích thiết kế HTTT\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.CoreCompileInputs.cache
