@@ -15,5 +15,10 @@ namespace QLQuanCafe.User_Controls
         {
             InitializeComponent();
         }
+
+        private void UC_QuanLyBan_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
