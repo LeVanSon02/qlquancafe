@@ -18,7 +18,7 @@ namespace QLQuanCafe
 
         private void Main_Load(object sender, EventArgs e)
         {
-            User_Controls.CT_HoaDon hd = new User_Controls.CT_HoaDon();
+            User_Controls.UC_ThemSuaMon hd = new User_Controls.UC_ThemSuaMon();
             pnLoad.Controls.Clear();
             pnLoad.Controls.Add(hd);
         }

@@ -83,6 +83,12 @@
     <Compile Include="User_Controls\UC_MenuChoKhach.Designer.cs">
       <DependentUpon>UC_MenuChoKhach.cs</DependentUpon>
     </Compile>
+    <Compile Include="User_Controls\UC_QuanLyBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_QuanLyBan.Designer.cs">
+      <DependentUpon>UC_QuanLyBan.cs</DependentUpon>
+    </Compile>
     <Compile Include="User_Controls\UC_TheMonAnXacNhan.cs">
       <SubType>UserControl</SubType>
     </Compile>
