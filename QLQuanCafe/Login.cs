@@ -48,7 +48,7 @@ namespace QLQuanCafe
                     }
                     if (kiemtra)
                     {
-                        Main main = new Main();
+                        MainTest main = new MainTest();
                         this.Hide();
                         main.Show();
                     }
