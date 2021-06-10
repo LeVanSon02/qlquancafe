@@ -52,3 +52,5 @@ E:\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.GenerateResource.cache
 E:\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.csproj.CoreCompileInputs.cache
 E:\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.exe
 E:\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.pdb
+E:\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.DangNhap.resources
+E:\qlquancafe\QLQuanCafe\obj\Debug\QLQuanCafe.User_Controls.UC_ThemNVLamViec.resources
