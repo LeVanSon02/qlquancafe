@@ -63,9 +63,19 @@ namespace QLQuanCafe.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bf8175a7b0b92f1099e5629b91511d9d_removebg_preview {
+        internal static System.Drawing.Bitmap door_key {
             get {
-                object obj = ResourceManager.GetObject("bf8175a7b0b92f1099e5629b91511d9d-removebg-preview", resourceCulture);
+                object obj = ResourceManager.GetObject("door-key", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user {
+            get {
+                object obj = ResourceManager.GetObject("user", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

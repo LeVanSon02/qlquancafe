@@ -44,6 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dataprovider.cs" />
     <Compile Include="KetNoi.cs">
       <SubType>Form</SubType>
@@ -72,6 +78,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User_Controls\UC_CaLamViecTrongNgay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_CaLamViecTrongNgay.Designer.cs">
+      <DependentUpon>UC_CaLamViecTrongNgay.cs</DependentUpon>
+    </Compile>
     <Compile Include="User_Controls\UC_KiemTraDatMon.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -84,11 +96,20 @@
     <Compile Include="User_Controls\UC_MenuChoKhach.Designer.cs">
       <DependentUpon>UC_MenuChoKhach.cs</DependentUpon>
     </Compile>
-    <Compile Include="User_Controls\UC_QuanLyBan.cs">
+    <Compile Include="User_Controls\UC_MenuQL.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="User_Controls\UC_QuanLyBan.Designer.cs">
-      <DependentUpon>UC_QuanLyBan.cs</DependentUpon>
+    <Compile Include="User_Controls\UC_MenuQL.Designer.cs">
+      <DependentUpon>UC_MenuQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\UC_NhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_ThemNVLamViec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\UC_ThemNVLamViec.Designer.cs">
+      <DependentUpon>UC_ThemNVLamViec.cs</DependentUpon>
     </Compile>
     <Compile Include="User_Controls\UC_TheMonAnXacNhan.cs">
       <SubType>UserControl</SubType>
@@ -114,6 +135,9 @@
     <Compile Include="User_Controls\UC_TheMonAnNho.Designer.cs">
       <DependentUpon>UC_TheMonAnNho.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="KetNoi.resx">
       <DependentUpon>KetNoi.cs</DependentUpon>
     </EmbeddedResource>
@@ -136,6 +160,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="User_Controls\UC_CaLamViecTrongNgay.resx">
+      <DependentUpon>UC_CaLamViecTrongNgay.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="User_Controls\UC_KiemTraDatMon.resx">
       <DependentUpon>UC_KiemTraDatMon.cs</DependentUpon>
     </EmbeddedResource>
@@ -144,6 +171,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="User_Controls\UC_QuanLyBan.resx">
       <DependentUpon>UC_QuanLyBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_MenuQL.resx">
+      <DependentUpon>UC_MenuQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_NhanVien.resx">
+      <DependentUpon>UC_NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\UC_ThemNVLamViec.resx">
+      <DependentUpon>UC_ThemNVLamViec.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="User_Controls\UC_TheMonAnXacNhan.resx">
       <DependentUpon>UC_TheMonAnXacNhan.cs</DependentUpon>
@@ -164,11 +200,16 @@
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\bf8175a7b0b92f1099e5629b91511d9d-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-key.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

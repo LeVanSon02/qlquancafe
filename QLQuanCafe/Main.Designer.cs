@@ -45,10 +45,6 @@ namespace QLQuanCafe
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // nhânViênToolStripMenuItem
-            // 
-
-            // 
             // pnLoad
             // 
             this.pnLoad.Dock = System.Windows.Forms.DockStyle.Fill;

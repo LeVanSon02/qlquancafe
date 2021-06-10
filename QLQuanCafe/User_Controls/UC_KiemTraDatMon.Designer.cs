@@ -90,11 +90,13 @@ namespace QLQuanCafe.User_Controls
          // btnXacNhan
          // 
          this.btnXacNhan.BackColor = System.Drawing.Color.Red;
+         this.btnXacNhan.FlatAppearance.BorderSize = 0;
+         this.btnXacNhan.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
          this.btnXacNhan.Font = new System.Drawing.Font("Segoe UI", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
          this.btnXacNhan.ForeColor = System.Drawing.Color.White;
-         this.btnXacNhan.Location = new System.Drawing.Point(223, 413);
+         this.btnXacNhan.Location = new System.Drawing.Point(236, 418);
          this.btnXacNhan.Name = "btnXacNhan";
-         this.btnXacNhan.Size = new System.Drawing.Size(122, 38);
+         this.btnXacNhan.Size = new System.Drawing.Size(109, 33);
          this.btnXacNhan.TabIndex = 6;
          this.btnXacNhan.Text = "Xác nhận";
          this.btnXacNhan.UseVisualStyleBackColor = false;
